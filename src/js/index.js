@@ -1,1 +1,0 @@
-var jumboHeight = $('.jumbotron').outerHeight();
