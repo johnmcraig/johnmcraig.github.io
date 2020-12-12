@@ -8,12 +8,13 @@ My public portfolio for GitHub Pages.
 
 ## My Portfolio website
 
-I'm John and this is my portfolio site created using Vue.js that is currently hosting/displaying my most recent projects.
+I'm John and this is my portfolio site created using Vue.js that is currently hosting and displaying my most recent projects.
 
 ## Development Environment
 
-This site was built with: 
-- HTML5 
+This site was built with:
+
+- HTML5
 - CSS3
 - Bootstrap 4
 - Font Awesome 5.12
